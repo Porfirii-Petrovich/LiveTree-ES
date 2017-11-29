@@ -1,0 +1,378 @@
+{
+    "Language" : "Idioma",
+    "Documents_nav": "Documentos",
+    "About_nav" : "Acerca de",
+    "Team_nav": "Equipo",
+    "Blog_nav" : "Blogs",
+    "Videos_nav": "Vídeos",
+    "Roadmap_nav" : "Hoja de Ruta",
+    "FAQs_nav": "Preguntas Frecuentes",
+    "Presale_nav" : "Preventa",
+    "LiveTree1Pager1_nav": "LiveTree ADEPT 1",
+    "LiveTree1Pager2_nav": "Página",
+    "Whitepaper_nav" : "Libro Blanco",
+    "Token_Proceeds_Allocation1_nav":"Uso de Ingresos", 
+    "Token_Proceeds_Allocation2_nav":"Asignación",
+    "PresaleDiscount1_nav": "Descuentos de Preventa",
+    "PresaleDiscount2_nav": "Lotería",
+    "filmTVandcontent0_mainpage": "Por primera vez en el mundo, potenciado por la comunidad,",
+    "filmTVandcontent_mainpage": "red de cine, TV y contenido.",
+    "pre-register-now_homepage" : "Pre-Regístrate ahora",
+    "ASK ASH ANYTHING": "PREGÚNTALE A ASH LO QUE QUIERAS",
+    "Chat Live with our CEO now!": "¡Chatea en vivo con nuestro CEO ahora!",
+    "whatislivetreeadept_homepage" : "¿Qué es LiveTree ADEPT?",
+    "adept_acryomn1_mainpage": "A",
+    "adept_acryomn2_mainpage": "vanzada ",
+    "adept_acryomn3_mainpage":"D",
+    "adept_acryomn4_mainpage":"descentralizada ",
+    "adept_acryomn5_mainpage":"E",
+    "adept_acryomn6_mainpage":"ntretenimiento ",
+    "adept_acryomn7_mainpage":"P",
+    "adept_acryomn8_mainpage":"plataforma para ",
+    "adept_acryomn9_mainpage":"T",
+    "adept_acryomn10_mainpage":"ransparente distribución",
+    "disruptsvaluechaing_homepage": "Disrupción en la cadena de valor de la industria del entretenimiento:",
+    "Currently_homepage": "Actualmente",
+    "Entertainmentvaluechain_homepage": "Cadena de Valor del Entretenimiento",
+    "TheFuture_homepage" : "El Futuro",
+    "Production_homepage" : "Producción",
+    "FindingActors1_homepage" : "Encontrar actores, talento",
+    "FindingActors2_homepage" : "contratar a un equipo puede ser complejo y costoso",
+    "Creation_homepage" : "Creación",
+    "Removescontracts_homepage" : "Elimina los contratos y conecta una amplia red. Todas las cuotas se pagan en nuestro token digital: LiveTree Seed.qq",
+    "Financing_homepage" : "Financiación",
+    "Professionalfinunstructured_homepage" : "La financiación profesional no está estructurada y la financiación colectiva deja todo el marketing al propietario del proyecto.",
+    "funding_homepage" : "Recaudación",
+    "cheapersmarter_homepage" : "Más barata, inteligente y estructurada para construir una base de fans que posean lo que ven y ganen Seeds por compartir.",
+    "Distribution_homepage" : "Distribución",
+    "Beginnersstruggle_homepage" : "Los principiantes tienen problemas para lanzar al mercado sus proyectos y construir un nombre. Los profesionales se enfrentan a procesos de venta ineficientes y acceso restringido",
+    "Blossom_homepage" : "Blossom",
+    "Gamechanging_homepage" : "El innovador Blossom TV proporciona gamificación transparente del contenido que ves, todo mediante Seeds",
+    "downloadwp_homepage": "Descarga nuestro Libro Blanco",
+    "adeptbenefits_homepage": "Ventajas de LiveTree ADEPT:",
+    "benefit1_homepage": "Avanzamos a la siguiente escena:",
+    "benefit2_homepage": " gana por el contenido que veas",
+    "benefit3_homepage": "Únete al casting:",
+    "benefit4_homepage": " sé parte de la producción",
+    "benefit5_homepage": "Tú eliges:",
+    "benefit6_homepage": " da luz verde al contenido que quieras que se vea en la pantalla",
+    "benefit7_homepage": "Gamifica, comparte",
+    "benefit8_homepage": " y ",
+    "benefit9_homepage": "posee",
+    "benefit10_homepage": " lo que ves",
+    "ashquote1_homepage": "El mundo del entretenimiento está cambiando.",
+    "ashquote2_homepage": "Los fans comparten contenido y quieren conectarse directamente con la gente que hay detrás de las pantallas.",
+    "ashquote3_homepage": "Estamos reimaginando el negocio del entretenimiento.",
+    "ashquote4_homepage": "Esta es tu oportunidad de poseer lo que ves.",
+    "trustedpartners_homepage": "Nuestros socios de confianza",
+    "trustedpartnersdesc_homepage": "Fundada hace dos años, LiveTree es un negocio existente y generador de ingresos que ha visto un crecimiento del 20% meas a mes. Solo en los últimos 6 meses, hemos financiado colectivamente unas 120 películas, proyectos de TV y contenido, construido una red de 14.000 compañías de entretenimiento y sus empleados. Esto no habría sido posible sin haber trabajado de manera cercana junto a 20 organizaciones independientes, incluyendo: -",
+    "Team_homepage": "Equipo",
+    "Founders_homepage" : "Fundadores",
+
+    "ashleyfounderceo_homepage" : "Fundador, CEO",
+    "ashleydesc_homepage" : "Ashley es responsable de la visión general, cultura y entrega de LiveTree. Guía los objetivos estratégicos, arquitectura y expansión de LiveTree en el mercado. Ha trabajado para Credit Suisse, RBS y UBS en el área de la inteligencia artificial para el cumplimiento regulatorio a través de la vigilancia del comercio. Habiendo adquirido de primera mano un conocimiento certero de las debilidades presentes de la economía global, Ashley lanzó LiveTree como un modelo sostenible alternativo para al desarrollo económico. Ashley estudió ciencias de computación en Seattle antes de emprender su carrera en Microsoft. Posteriormente, trabajó con el fundador e inventor de Winamp. A su regreso a Europa, Ashley se convirtió en CTO de una empresa de lotería de beneficencia online. Habiendo comenzado a programar desde una edad muy temprana, tiene un bagaje tecnológico fuerte y pasión por la innovación en blockchain.",
+    "cheryltitle_homepage" : "Co-fundadora, Relaciones con Socios",
+    "cheryldesc_homepage" : "Cheryl es responsable de las colaboraciones en la industria. Comenzó su carrera en cine, TV y contenidos a principios de los ‘90s. Posteriormente pasó a Emap, donde trabajó en retransmisión en la industria de la TV en Reino unido y en el título internacional de su hermana, TV World, gestionando clientes tanto de mercado local como internacional. A lo largo de los años, Cheryl ha desarrollado un conocimiento profundo de la industria y ha establecido múltiples alianzas clave en el mundo del entretenimiento.",
+    "jaimecofounder_homepage" : "Co-fundador, Jefe Técnico",
+    "jaimedesc_homepage" : "Jamie es el responsable de la estrategia tecnológica general y de la hoja de ruta de LiveTree ADEPT. Ha trabajado para LiveTree durante varios años. Tiene un PhD en ciencias de computación por la Swiss Federal Institute of Technology (ETH) de Zurich. Interesado en la tecnología blockchain hace varios años, y como ingeniero desde 2001, ha trabajado en el desarrollo de hardware para la criptografía de curvas elípticas. Tiene un puesto de investigación en la University College London (UCL) en el área de inteligencia artificial aplicada a la interacción social.",
+    "lennardtitle_homepage" : "Co-fundador, CMO",
+    "lennarddesc_homepage" : "Lennard es el responsable de la planificación y ejecución de estrategias de marketing en el desarrollo de producto, servicio al cliente y comunidad. Antes de incorporarse a LiveTree, Lennard fue consultor de RRPP corporativo para la agencia de comunicación de Publicis MSL Group y ha sido fundamental en el desarrollo e implementación de estrategias de marca y marketing para un gran número de grandes empresas y startups. Estudió Ciencias Políticas en la Universidad de Ámsterdam y marketing y Comunicaciones en SRM.",
+    "stucfo_homepage" : "Co-fundador, CFO",
+    "studesc_homepage" : "Stuart es el responsable de la estrategia financiera de LiveTree, previsiones financieras y economía del token. Con un amplio bagaje en finanzas, comenzó su carrera como analista de commodities. Más recientemente, ha trabajado en Intercontinental Exchange antes de pasarse a la gestión financiera. Tiene un BCom en Economía y Matemáticas y un posgrado en Económicas.",
+    "jentitle_homepage" : "Consultora de Marketing",
+    "jendesc_homepage" : "Jen es actualmente el Director de Marketing y Comunicaciones para un negocio de asesoría financiera corporativa, habiendo previamente gestionado el desarrollo y distribución de contenido de inversores para Ingenious Group. Anteriormente, Jen ostentó posiciones de desarrollo en la compañía de asesoría tributaria global Taxand, Thomson Reuters y Barclays Capital, donde fue responsable del marketing de la plataforma de e-trading multi-activos de Barclays, BARX. Jen se graduó en la St. Catharine College, Universidad de Cambridge en 2008 con honores en Literatura Inglesa.",
+    "alexcpo_homepage" : "Jefe de Producto",
+    "alexdesc_homepage" : "Alexander es el responsable de la gestión de implementación general de ADEPT. Tiene más de 15 años de experiencia en gestión ejecutiva en Servicios Tecnológicos Globales y como emprendedor ha construido numerosos negocios internacionales pequeños y medianos de éxito. Entusiasta de la Blockchain desde 2015, Alexander creó una Blockchain Practice en Usetech, una empresa de desarrollo de software con más de 200 empleados. Con un MS en Ingeniería, y un MBA, así como habiendo completado la TGM Executive Education en INSEAD, Alexander comenzó su carrera en TI con FAME (ahora Sunguard) en Nueva York. Tras ello ha formado parte del equipo de gestión de Luxoft (NYSE: LXFT), una de las mayores empresas de Desarrollo de Software de Europa del Este, prestando servicios a Bancos de Inversión de primer nivel como UBS y Deutsche Bank, así como empresas Energéticas y manufactureras. Antes de unirse a LiveTree, Alexander creó numerosas startups EdTech y una consultoría de TI.",
+    "gustavotitle_homepage" : "Desarrollador solidity / Consultor Auditor",
+    "gustavodesc_homepage" : "Disfruta encontrando soluciones a problemas del mundo real a través del uso de la tecnología en las industrias de la educación, publicidad, entretenimiento y artes. Fue galardonado German Chancellor Fellow de la Fundación Alexander von Humboldt por el impacto de la investigación tecnológica en el aprendizaje de la gente a nivel mundial. Actualmente, está construyendo soluciones usando la blockchain y contratos inteligentes.",
+ 
+    "andreyba_homepage" : "Arquitecto Blockchain",
+    "andreydesc_homepage" : "Andrey es el jefe de arquitectura de blockchain de ADEPT. Andrey lidera las decisiones técnicas y ayuda a guiar al equipo de desarrollo. Aparte de liderar el desarrollo en la blockchain de Ethereum, Andrey usa su experiencia en el desarrollo de aplicaciones de alto rendimiento en un gran número de tecnologías (.NET, Microservices, SOA, Docker, etc) para el procesamiento backend. Antes de unirse al equipo de LiveTree, Andrey trabajó para Instituciones Financieras globales.",
+    "edtitle_homepage" : "Jefe de Proyecto",
+    "eddesc_homepage" : "Ed ha sido clave en la creación de numerosas startups crecientes, contribuyendo tanto técnica como comercialmente a la estrategia corporativa, dirección y gestión del día a día. Es un defensor de las energías renovables, habiendo trabajado en la materia durante más de 15 años y ayudado a dar enormes pasos en el desarrollo que se ha conseguido durante este tiempo. Apasionado por las nuevas tecnologías y la gestión de proyectos en tiempo real.",
+    "Advisors_homepage" : "Asesores",
+    "noeltitle_homepage" : "Director de la British Film Institute Future Film",
+    "noeldesc_homepage" : "Como director de BFI Future Film, Goodwin programa y gestiona eventos mensuales orientados a la industria del cine regularmente para cineastas emergentes, identificando sus habilidades, necesidades y aspiraciones.",
+    "stellatitle_homepage" : "Director, Ingenious Group",
+    "stelladesc_homepage" : "Stella es actualmente Directora de Inversión Senior en Ingenious Group y tiene un interés personal en el sector de la tecnología. Antes de unirse a Ingenious, Stella fue Directora en Minorista e Inversión Privada en HBOS Treasury. Stella construyó su proposición de riqueza en mercados financieros en HBOS, y su rol se amplió tras cubrir los canales de distribución minoristas multi-marca en el Grupo. Su equipo proporcionó productos de mercados financieros incluyendo productos estructurados, casas de cambio extranjeras y gestión de riesgos de tipos de interés.",
+    "anitatitle_homepage" : "Diosa VOD",
+    "anitadesc_homepage" : "O’Donnell ha trabajado con todas las principales plataformas (desde iTunes hasta Netflix) desde 2006, tanto como proveedora de servicios tecnológicos como agregadora. Su tarea es ayudar a los clientes a entregar su contenido a tiempo, en condiciones perfectas. Elaborar desde planes simples hasta gestionar los problemas más complejos, gestión operativa y de cadena de suministro, y forjar y servir a relaciones de clientes son solo unos pocos de sus muchos talentos.",
+    "hibrydatitle_homepage" : "Arquitecto Blockchain",
+    "hibrydadesc_homepage" : "Creador de BitLattice, Inventor, investigador de seguridad independiente, experto generalista. Puede programar todo lo programable; integral al proyecto, proporciona guía técnica.",
+    "yivestitle_homepage" : "Visionario Estratégico",
+    "yivesdesc_homepage" : "Si bien el foco de Reed está en lo digital y tecnológico (lleva en la punta de los medios digitales desde el 2000), aporta su talento comercial. Sus tareas especiales son identificar necesidades de cambio, desmitificar la tecnología y ofrecer respuestas efectivas e innovadoras a los retos emergentes.",
+    "puravtitle_homepage" : "Arquitecto Técnico",
+    "puravdesc_homepage" : "Gandhi tiene más de 14 años de experiencia trabajando en diseño y desarrollo de portales (liferay, websphere) y de aplicaciones de empresa (Web, Móvil y Escritorio). Gandhi lidera la implementación del sistema .NET de LiveTree.",
+    "garydesc_homepage" : "La carrera de Collins en la industria del cine comenzó en 2012. Poco después, lanzó Red Rock Entertainment, basada en la famosa Elstree Studios, que trabajó junto a las principales compañías de producción para obtener financiación para proyectos independientes de cine y televisión.",
+    "stephentitle_homepage" : "Asesor de Negocios",
+    "stephendesc_homepage" : "Bloch es un profesional de negocios con experiencia, asesor, mentor y emprendedor con una gran experiencia en Reino Unido e Internacional. Su experiencia va desde negocios startup hasta roles ejecutivos en empresas en Reino Unido, Australia y España. Tiene conocimiento sobre el terreno y contactos en un gran número de mercados y sectores, incluyendo TMT (tecnología, prensa y comunicaciones), ciencias de la vida, recursos, inmobiliario y entretenimiento.",
+    "ourvision_homepage" : "Nuestra visión para los próximos cinco años",
+    "ourvisiondesc1_homepage" : "Definir un nuevo mercado en el sector entretenimiento.",
+    "ourvisiondesc2_homepage" : " Nuestra plataforma única end-to-end crea disrupción en la industria y nuestras tasas son la mitad de las de la competencia",
+    "ourvisiondesc3_homepage" : "Distribuir más de ",
+    "ourvisiondesc4_homepage" : "300M$ del mercado de contenido de vídeo bajo demanda",
+    "ourvisiondesc5_homepage" : "Especializarnos en cine y TV para reformar y capturar el ",
+    "ourvisiondesc6_homepage" : "45% de los 1000M$ y creciendo del mercado creciente de financiación colectiva",
+    "ourvisiondesc7_homepage" : "Tener un  ",
+    "ourvisiondesc8_homepage" : "retorno de la plataforma de 750M$ para el quinto año",
+    "Roadmap_homepage" : "Hoja de Ruta",
+    "Jointhecommunity_homepage" : "Únete a la comunidad que dará forma al futuro del entretenimiento.",
+    "Jointhecommunitydesc_homepage" : "Disfruta de los beneficios de estar en el inicio de una plataforma de entretenimiento disruptiva que pretende liderar la industria de 498.000 millones de dólares. Regístrate en nuestra whitelist para acceder a la venta inicial de tokens Seed.",
+    "Downloadwp_homepage" : "Descarga el Libro Blanco",
+    "Preregisternow_homepage" : "Pre Regístrate ahora",
+    "Livetreecommunity_homepage" : "LiveTree Community Limited es una empresa registrada en Inglaterra y Gales. Company number 10997183. Made in London, UK Copyright © 2017 LiveTree",
+
+
+
+
+    "acceptterms_formpage" : "ACEPTA LOS TÉRMINOS",
+
+    "importantnote1_formpage" : "AVISO IMPORTANTE:",
+    "importantnote2_formpage" : "La Preventa de Tokens SEED comienza el 1 de diciembre de 2017. Descuento de preventa del 50% y bonus adicionales disponibles. Continuando aceptas los términos y condiciones de la venta:",
+    "importantnote21_formpage" : " Por favor, ten en cuenta que el equipo de LiveTree nunca te pedirá que contribuyas antes de la preventa de tokens el 1 de diciembre de 2017. Estos serán intentos de suplantación de identidad realizados por estafadores, y si recibieras dichos mensajes en tu bandeja de entrada a través de mensajes directos, por favor, repórtalos enviando un email a",
+    "importantnote3_formpage" : "",
+    "importantnote31_formpage" : "team@livetree.com",
+
+    "iconfirm1_formpage" : " Confirmo que he leído y comprendido el",
+    "iconfirm2_formpage" : "  Libro Blanco.",
+
+    "iconfirmbulletzero0_formpage" : "Por la presente confirmo que soy mayor de 18 años",
+    
+
+    "iconfirmbullettwo1_formpage" : " Por la presente, confirmo que no soy ciudadano/residente permanente/representante de una compañía estadounidense o ciudadano/residente permanente/representante de una compañía de cualquier jurisdicción en la que la compra de tokens Seed sea ilegal, esté restringida o requiera una acreditación especial.",
+
+  
+    "iconfirmbulletthree1_formpage" : " Confirmo que soy consciente en, cuanto a la preventa, de los. ",
+    "iconfirmbulletthree2_formpage" : "bonus y lotería",
+    
+    "addpersonal_formpage" : "AÑADE DATOS PERSONALES",
+
+    "importantnotesignup_formpage" : "AVISO IMPORTANTE: Deberás confirmar tu dirección de email. Para asegurar que entras en la whitelist, por favor, toma un momento para responder los campos siguientes. Nuestro mantra es la transparencia y nuestro objetivo es crear una venta de tokens justa y amplia para nuestra comunidad. Respondiendo las siguientes preguntas, nos ayudarás a mejorar la calidad de la comunidad y tus oportunidades de entrar en la whitelist.",
+
+    "success_formpage" : "ÉXITO",
+    "successmodaltitle_formpage" : "Éxito",
+
+    "plsverifyemail_formpage" : "Por favor, confirma tu dirección de email",
+    
+    "plsverifyemaildesc_formpage" : "Te acabamos de enviar un email de confirmación para verificar tu dirección de email. Revisa tu bandeja de Spam y añade 'team@livetree.com' a tu lista para no perderte ninguna de las notificaciones de la venta de Seed de LiveTree ni futuras instrucciones.",
+    
+    "Whatislivetree_faq" : "¿Qué es LiveTree?",
+
+    "WhatislivetreeA_faq" : "LiveTree ayuda a los creativos a conseguir financiación para sus proyectos. Se nos conoce mejor por nuestra",
+    "WhatislivetreeA1_faq" : " plataforma de financiación colectiva social.",
+    "WhatislivetreeA2_faq" : " En los últimos dos años, hemos captado el 5% de todo el mercado de financiación colectiva (en contenido y cine) y hemos creado alianzas con númerosos líderes en entretenimiento. Esto incluye la British Film Institute Future Film, la Screen Arts Institute, Film London y otras muchas organizaciones en Reino Unido y a nivel internacional. Nuestro",
+    "WhatislivetreeA3_faq" : " directorio",
+    "WhatislivetreeA4_faq" : "de contactos incluye un gran número de empresas y particulares que trabajen en la creación de contenido, cine y TV.",
+
+    "Whatislivetreeadept_faq" : "¿Qué es la plataforma LiveTree ADEPT?",
+    "WhatislivetreeadeptA_faq" : "Construido sobre el éxito de nuestra plataforma existente, estamos desarrollando ADEPT  (",
+    "WhatislivetreeadeptA1_faq" : "A",
+    "WhatislivetreeadeptA2_faq" : "vanzada ",
+    "WhatislivetreeadeptA3_faq" : "D",
+    "WhatislivetreeadeptA4_faq" : "escentralizada ",
+    "WhatislivetreeadeptA5_faq" : "P",
+    "WhatislivetreeadeptA6_faq" : "lataforma para ",
+    "WhatislivetreeadeptA7_faq" : "T",
+    "WhatislivetreeadeptA8_faq" : "ransparente distribución). ADEPT es una plataforma descentralizada que reinventa el proceso de creación de contenido, financiación y distribución. La distribución se realiza a través de Blossom (gestión de derechos digitales), un método descentralizado y disruptivo que pretende revolucionar cómo se comparte y consume contenido",
+    "WhatislivetreeadeptA9_faq" : "En los próximos 5 años, los objetivos que ADEPT pretende conseguir son:",
+    "WhatislivetreeadeptA10_faq" : "45% del mercado presente de financiación colectiva de 1.000M$ para cine, TV y contenido",
+    "WhatislivetreeadeptA11_faq" : "Aproximadamente 400 millones de dólares de la industria de cine y televisión global de 466.000M$",
+    "WhatislivetreeadeptA12_faq" : "Y más de 64 millones (solo el 2% del mercado de contenido para VOD (piensa en independent y YouTube) estimado en 32.000M$",
+    "WhatislivetreeadeptA13_faq" : "Ingresos acumulados de 750M$ para el quinto año",
+    "WhatislivetreeadeptA14_faq" : "Con tasas que suponen la mitad que las de la competencia y con una plataforma única end-to-end, LiveTree pretende crear disrupción en la industria de la financiación del entretenimiento.",
+    "WhatislivetreeadeptA15_faq" : "Esperamos desarrollar mercados totalmente nuevos y ser el estándar para la creación y distribución. LiveTree está bien posicionada para reimaginar las industrias creativas.",
+
+
+    "Whatiscryptocurrency_faq" : "¿Qué son las criptomonedas?",
+    "WhatiscryptocurrencyA_faq" : "Una criptomoneda es un activo digital diseñado para trabajar como medio de intercambio usando criptografía para asegurar las transacciones y controlar la creación de unidades adicionales de divisas.",
+    "WhatiscryptocurrencyA1_faq" : "Estos activos son unidades monetarias (también conocidas como “monedas” o “tokens”) que están protegidas frente a falsificaciones, pues representan información encriptada que no puede ser falsificada.",
+    
+    "Whatisblockchain_faq" : "¿Qué es la blockchain?",
+    "WhatisblockchainA_faq" : "La blockchain es un libro de transacciones digitalizado y descentralizado. Permite a los participantes en el mercado llevar la cuenta de transacciones de divisas digitales sin un registro central.",
+    "WhatisblockchainA1_faq" : "El nacimiento de la tecnología blockchain se describe en ocasiones como la tercera era de la web o la Web 3.0.",
+    "WhatisblockchainA2_faq" : "Las tres eras de la web",
+    "WhatisblockchainA3_faq" : "Web 1.0",
+    "WhatisblockchainA4_faq" : "Hipervínculo/email",
+    "WhatisblockchainA5_faq" : "Presentación del email y los hipervínculos; la habilidad de navegar, o conectar páginas entre sí.",
+    "WhatisblockchainA6_faq" : "Web 2.0",
+    "WhatisblockchainA7_faq" : "Monopolios Centralizados",
+    "WhatisblockchainA8_faq" : "Auge de Amazon, Facebook, Google, Apple y Microsoft. Estos gigantes tecnológicos ofrecieron servicios a través de cuentas de usuario y proporcionaron “centros de confianza” para el intercambio de información. La información de los usuarios se convirtió en una commodity, usada frecuentemente para beneficio corporativo.",
+    "WhatisblockchainA9_faq" : "Web 3.0",
+    "WhatisblockchainA10_faq" : "Blockchain Descentralizada",
+    "WhatisblockchainA11_faq" : "La era de la blockchain y la red descentralizada. El auge de la tecnología peer-to-peer proporciona un “mecanismo de confianza” impllícito, bajo el cual la información ya no está bloqueada en los gigantes de Internet, sino controlada por el individuo. Esto libera Internet del modelo de centralización dominante permitiendo a la gente compartir información y crear contratos en un entorno seguro, descentralizado",
+    
+    "Whataresmartcontracts_faq" : "¿Qué son los Contratos Inteligentes?",
+    
+    
+    "WhataresmartcontractsA_faq" : "Un contrato inteligente es un protocolo de computación creado para facilitar, verificar o ejecutar un contrato. En esencia, los Contratos Inteligentes son versiones digitalizadas de los contratos tradicionales. El objetivo con los contratos inteligentes es proporcionar seguridad que mejora la ley de contratos tradicional y reduce los",
+    "WhataresmartcontractsA1_faq" : "costos de transacción",
+    "WhataresmartcontractsA2_faq" : " asociados con los contratos.",
+   
+    "Whatisseed_faq" : "¿Qué es Seed?",
+    "WhatisseedA_faq" : "El token digital de soporte de ADEPT se llama Seed. Seed está diseñado para proporcionar igualdad y eliminar las barreras de entrada al mercado. Su valor se crea a través de la demanda, derivada de su uso en la plataforma y subsiguientes recompras del mercado secundario.",
+    "WhatisseedA1_faq" : "Seed está diseñado para incentivar el buen comportamiento en el ecosistema LiveTree, devolver a la comunidad de la plataforma y, además, crear retornos potencialmente significativos para aquellos que los posean. Los beneficios generados por ADEPT se usan para recomprar Seed. Esto, además de la actividad interna de la plataforma. La recompra de Seed conllevará el crecimiento de la economía conectada, que se espera que incremente el valor de Seed.",
+    "WhatisseedA2_faq" : "Venderemos los primeros Seed disponibles en nuestra venta de tokens.",
+
+    "HowdoIparticipate_faq" : "¿Cómo participo en la venta de tokens?",
+    "HowdoIparticipateA_faq" : "Necesitarás una cartera digital compatible con Ethereum ERC20 y Ether.",
+    "HowdoIparticipateA1_faq" : "Pre-regístrate y entérate de más",
+    
+    "whocantakepart_faq" : "¿Quién puede participar en la venta de tokens?",
+    "whocantakepartA_faq" : "Quienquiera con más de 18 años de edad puede participar en la venta de tokens, a excepción de determinadas jurisdicciones:",
+    "whocantakepartA1_faq" : "Las leyes de Corea del Sur no permiten a los Ciudadanos sudcoreanos participar en esta venta de tokens",
+    "whocantakepartA2_faq" : "Las leyes de Malasia no permiten a los malayos participar en esta venta de tokens",
+   
+    "howdoIfollowdev_faq" : "¿Cómo sigo los progresos sobre la venta de tokens?",
+    "howdoIfollowdevA_faq" : "Puedes seguir los progresos ",
+    "howdoIfollowdevA1_faq" : "registrándote para la preventa",
+    "howdoIfollowdevA2_faq" : " o a través de nuestro",
+    "howdoIfollowdevA3_faq" : "canal de Telegram",
+    
+    "willseedbecomeavailable_faq" : "¿Estará Seed disponible en las casas de cambio de cripto monedas?",
+    "willseedbecomeavailableA_faq" : "Estamos trabajando con las principales casa de cambio de criptomonedas para incluir Seed. El nuevo token será lanzado en la blockchain de Ethereum (ERC20) y estará disponible para transferencias e intercambios inmediatamente después del lanzamiento bajo el símbolo: SED.",
+    
+
+    
+    "willstoremyseed_faq" : "¿Almacenaréis mis Seed?",
+    "willstoremyseedA_faq" : "No, puedes guardar tus Seed de manera segura en una cartera digital de tu elección. Nosotros usamos y recomendamos MyEtherWallet pero existen otras muchas. Visita nuestro ",
+    "willstoremyseedA1_faq" : "Vídeo educativo en YouTube para conocer más detalles.",
+
+    "preregisternow_faq" : "Pre-regístrate ahora",
+    
+
+
+    "Registerbuyseed_buy" : "Regístrate para comprar Tokens Seed de LiveTree.",
+    "seedsale_buy" : "La venta de tokens Seed se llevará a cabo mediante invitación y tienes que estar en la lista blanca para participar.",
+
+    "press_buy" : "Pulsa el botón de pre-registro en la whitelist para asegurarte una plaza en la venta de tokens Seed ",
+    "new_buy" : "Para aquellos nuevos a la blockchain sigue los vídeos educativos para asegurarte de que estás listo para comprar Seed",
+
+    "seebelow_buy" : "Mira más abajo los detalles de los bonus disponibles para la preventa",
+
+    "beginnersguidesetup_buy" : "1. Guía para Principiantes: Configuración de MyEtherWallet",
+    "beginnersguidetransfer_buy" : "2. Guía para Principiantes: Transfiere ETH a tu cartera",
+    "registerwhitelist_buy" : "3. Regístrate para entrar en la whitelist de la preventa",
+    "preregister_buy" : "Pre-regístrate ahora",
+    "wewillsendyou_buy" : "Te enviaremos instrucciones sobre cómo transferir ETH para recibir Tokens Seed",
+    "presalebonuses_buy" : "Bonus de Preventa",
+    "presale50percent_buy" : "50% de Descuento en la PreVenta de Seed de LiveTree",
+
+    "adeptrev_buy" : "ADEPT pretende revolucionar cómo interactuamos, consumimos y participamos en el contenido que vemos y sobre el que hablamos a diario. ADEPT quiere crear disrupción en la cadena de valor del entretenimiento al completo, comprando Seed ahora, no solo aprovechas los beneficios inmediatos del 50% de descuento de la preventa y accedes a la lotería Seed sino que, además, tienes un token que representa un mercado completamente nuevo e innovador: el futuro del entretenimiento.",
+
+    "stage_buy" : "Fase",
+    "discount_buy" : "Descuento",
+    "thismeans_buy" : "Esto significa que si participas en la preventa ahora, ofrecemos incrementar tu capital al menos en dos veces",
+    "presale_buy" : "Preventa",
+    "mainsale_buy" : "Venta Principal",
+    "further_buy" : "Recompensas Adicionales y Descuentos Extra",
+    "furtherreward_buy" : "El sistema de bonus de recompensa de Seed de LiveTree está configurado para generar automáticamente la recompensa asociada a la cantidad de Seed de tu compra. Por ejemplo, del sistema detallado más abajo: si gastas 50 ETH o más, pero menos de 75 ETH, recibirás un bonus tier 9, un regalo del 4.5% de Seed sobre lo que hayas comprado. El siguiente es el desglose detallado de bonus durante la preventa:",
+    "reward_buy" : "Recompensa",
+    "payment_buy" : "Pago",
+    "bonus_buy" : "Bonus",
+    "tier_buy" : "Tier",
+    "prizedraw_buy" : "Initial Seed Prize Draw",
+    "prizedrawreward_buy" : "Para premiar a nuestra comunidad, realizaremos un sorteo de 200.000 Seed. Los participantes que nos apoyen con una compra de 10 ETH o superior podrán participar. El monto del premio será distribuido entre los primeros diez participantes en la campaña ICO seleccionados aleatoriamente. ¡El premio de la lotería tiene 200.000 Seed! Estos son los detalles:",
+
+
+    "place_buy" : "Puesto",
+    "distribution_buy" : "Distribución",
+    "prizeseed_buy" : "Premio en Seed",
+    "inETH_buy" : "en ETH",
+
+    "drawprocedure_buy" : "Procedimiento del sorteo:",
+    "eachuser_buy" : "Procedimiento del sorteo:",
+    "instruct1_buy" : "Cada usuario que haga una compra única de 10 ETH o más entrará en el sorteo. Tu dirección de cartera única será usada en el sorteo que se llevará a cabo en ",
+    "instruct2_buy" : "La información de los ganadores se hará pública de manera que respete su privacidad. Para asegurar que eres elegible para el sorteo, por favor, ten en cuenta:",
+    "instruct3_buy" : "Debes comprar 10 ETH o más de tokens Seed",
+    "instruct4_buy" : "El premio en Seed para los ganadores será congelado durante 3 meses, desde la finalización de la venta principal",
+
+    "seedprojectedvalue_buy" : "Valor proyectado de Seed",
+    "increasedvalue_buy" : "Valor de Seed Incrementado a Través de la Reducción en Circulación",
+    "oneway_buy" : "Una de las maneras en que generamos valor para Seed es usando algunos de los beneficios de la plataforma para comprar Seed a precios de mercado. Usaremos los beneficios de la plataforma para hacer esto. Durante las fases iniciales de ADEPT, los Seed readquiridos por la plataforma (no poseídos por los consumidores) serán destruidos para ayudar a apreciar el Seed. Como los Seed se han creado en una cantidad fija, esto aumentaría la escasez y la demanda general de mercado. La quema de toekns se prevé durante la primera y segunda fase. El siguiente gráfico ilustra la agenda de quema anticipada según el porcentaje de tokens recomprados. Esto se espera que sea ventajoso, en especial, para aquellos que compren Seed en la venta inicial.",
+    "valuebystage_buy" : "Fuentes de valor según la fase",
+    "valuedriven_buy" : "El valor de SEED se determina según la demanda de los mimos en la plataforma (que se puede dividir en 5 fases del negocio) como se muestra claramente en la siguiente gráfica.",
+
+
+    
+
+
+
+
+    "emailaddress_formpage" : "Dirección de Email",
+
+    "firstname_formpage" : "Nombre",
+    "lastname_formpage" : "Apellidos",
+    "contribethamount_formpage" : "Cantidad contribuida en ETH",
+    "errcontribethamount_formpage" : "Por favor, indica una cantidad de SEED válida.",
+    "learnmore_formpage" : "Aprende más sobre los bonus de preventa y lotería",
+    "profession_formpage" : "Profesión (opcional)",
+    "approximately_formpage" : "aproximadamente",
+    "telegram_formpage" : "Nombre de usuario en el canal de Telegram de LiveTree Telegram (opcional)",
+
+    "joinwhitelist_formpage" : "Únete a la Whitelist",
+
+
+    "successmodaldesc_formpage" : "Gracias por tu solicitud a la lista blanca. Revisaremos tu solicitud y te enviaremos más detalles.",
+
+    "successmodaldesc2_formpage" : " Muchas gracias, el Equipo de LiveTree ADEPT",
+    
+
+   
+    "thanksconfirm_formpage" : "Gracias, has confirmado correctamente tu dirección de email. Estamos revisando tu solicitud a la whitelist de la venta de tokens Seed. Te enviaremos un email con más instrucciones. Por favor, asegúrate de que has marcado el 1 de diciembre en tu calendario para la preventa de tokens Seed.",
+    
+
+
+  
+    "Thevision_homepage" : "La visión",
+    "Howitworks_homepage" : "Cómo funciona",
+    "errmsgemail_formpage" : "La dirección de email facilitada no es válida. Por favor, prueba de nuevo.",
+    "continuebutton_formpage" : "Continuar",
+    "newsletter_LiveTree_Seed_Newsletter": "Newsletter de LiveTree Seed",
+    "newsletter_Join_our_mailing_list_and_stay": "Únete a nuestra lista de mailing y entérate de las últimas noticias relacionadas con la venta de tokens LiveTree Seed.",
+    "newsletter_The_token_sale_starts_on": "La venta de tokens comienza el 1 de diciembre de 2017",
+    "newsletter_Enter_your_email_address": "Escribe tu dirección de email para suscribirte",
+    "newsletter_Join_mailing_list": "Únete a la lista de mailing",
+    "please_wait_on_live_seed" : "Por favor, espera mientras verificamos la disponibilidad para la preventa. Solo nos tomará unos pocos segundos",
+    "address" : "Dirección de Venta de Tokens Seed",
+    "congratulations_on_seed_success" : "¡Felicidades! Ahora puedes comprar LiveTree Seed enviando ETH a la siguiente dirección.",
+    "sale_start_announce" : "La preventa de tokens Seed de LiveTree Seed comienza el 1 de diciembre de 2017 en:",
+    "dont_miss_pre_register" : "No te la pierdas, ¡pre-regístrate ahora!",
+    "sale_started_buy_seed" : "La venta de Tokens Seed de LiveTree está abierta. ¡No te la pierdas!",
+    "buy_seed_now":"Compra Seed Hoy",
+    "buy_seed" : "Compra Seed",
+    "subscribe_update" : "Suscríbete para actualizaciones",
+    "Subscribe" : "Suscríbete",
+    "your_email" : "Tu E-mail",
+    "send_eth_address" : "Por favor envía ETH a la siguiente dirección mostrada más arriba. Los Seed se enviarán a tu cartera.",
+    "imp_note" : "Aviso Importante:",
+    "pre_sale_disc" : "Descuento de Preventa:",
+    "pre_sale_disc_desc" : "Compra seed hoy para aprovechar el descuento del 50% en el precio de la preventa",
+    "lottery" : "Lotería:",
+    "lottery_desc" : "Envía 10 ETH o más y entrarás en la lotería para el premio de 200.000 Seed",
+    "bonus_disc" : "Bonus:",
+    "bonus_disc_desc" : "Apóyanos con más de 1,5 ETH y optarás a bonus Seed adicionales",
+    "scroll_down_for_lottery" : "Desplázate hacia abajo en por esta página para más información sobre los bonus y vídeos educativos para aquellos que seáis nuevos en blockchain",
+    "ensure_disc" : "Asegúrate de que tu cartera es compatible con ECR20 y que has añadido los SED ",
+    "ensure_disc_2" : " dirección de tu cartera",
+    "top_nav_main_pages" : "Únete a la comunidad LiveTree ADEPT.  La preventa de tokens Seed comenzará el 1 de diciembre de 2017.",
+    "top_nav_main_page_sale_live" : "La venta de Tokens Seed de LiveTree ya está abierta. ¡No te la pierdas!",
+    "learn_more" : "Saber más",
+    "top_nav_main_sale_end" : "Únete a la comunidad LiveTree ADEPT. La venta pública de tokens Seed comenzará el 7 de enero de 2018.",
+    "sale_end_pre_register" : "La venta de tokens Seed de LiveTree Seed comenzará el 7 de enero de 2018 ",
+    "need_help" : "Guía Blockchain para Principiantes",
+    "Pre-sale-bonus" : "Bonus de Preventa",
+    "beginnersguidetransfer_3_buy" : "3. Guía para Principiantes: Comprando Seed",
+    "about" : "Acerca de",
+    "about_desc1" : "El negocio de cine, TV y contenido de LiveTree",
+    "about_desc2" : "se fundó hace 2.",
+    "about_desc3" :  "LiveTree ya ha captado el 5% del mercado de financiación colectiva del entretenimiento en Reino Unido (1.000 millones de dólares de mercado global).",
+    "about_desc4" :  "LiveTree ADEPT",
+    "about_desc5" : "es la próxima generación de la plataforma construida sobre la experiencia de nuestro negocio existente probado. la nueva plataforma, ADEPT, ",
+    "about_desc6" : "va más allá de la financiación colectiva",
+    "about_desc7" : "y usa la blockchain para reducir las comisiones, eliminar los costosos contratos y presentar la primera plataforma de distribución de extremo a extremo en el mundo (500.000 millones de dólares de mercado global). En los últimos 2 años, LiveTree ha logrado varias alianzas con socios de perfil alto incluyendo Red Rock Entertainment, el British Film Institute, Film London, El Screen Arts Institute, y 14.000 proveedores de la industria en todo el mundo.",
+    "need" :"¿Necesitas ayuda?"
+      
+
+
+
+}
