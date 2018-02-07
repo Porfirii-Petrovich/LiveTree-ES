@@ -1,0 +1,285 @@
+{
+
+    "newsletter_LiveTree_Seed_Newsletter": "Newsletter de LiveTree Seed",
+
+    "newsletter_Join_our_mailing_list_and_stay": "Únete a nuestra lista de mailing y entérate de las últimas noticias relacionadas con la venta de tokens LiveTree Seed.",
+
+    "newsletter_The_token_sale_starts_on": "La venta de tokens comienza el 31 de enero de 2017",
+
+    "newsletter_Enter_your_email_address": "Escribe tu dirección de email para suscribirte",
+
+    "newsletter_Join_mailing_list": "Únete a la lista de mailing",
+    "please_wait_on_live_seed": "Por favor, espera mientras verificamos la disponibilidad para la preventa. Solo nos tomará unos pocos segundos",
+
+    "address": "Dirección de Venta de Tokens Seed",
+
+    "congratulations_on_seed_success": "¡Felicidades! Ahora puedes comprar LiveTree Seed enviando ETH a la siguiente dirección.",
+    "sale_start_announce": "La preventa de tokens Seed de LiveTree Seed comienza el 1 de diciembre de 2017 en:",
+
+    "dont_miss_pre_register": "No te la pierdas, ¡pre-regístrate ahora!",
+
+    "sale_started_buy_seed": "La venta de Tokens Seed de LiveTree está abierta. ¡No te la pierdas!",
+    "buy_seed_now": "Compra Seed Hoy",
+
+    "buy_seed": "Compra Seed",
+
+    "subscribe_update": "Suscríbete para actualizaciones",
+
+    "Subscribe": "Suscríbete",
+
+    "your_email": "Tu E-mail",
+
+    "send_eth_address": "Por favor envía ETH a la siguiente dirección mostrada más arriba. Los Seed se enviarán a tu cartera.",
+
+    "imp_note": "Aviso Importante:",
+
+    "pre_sale_disc": "Descuento de Preventa:",
+
+    "pre_sale_disc_desc": "Compra seed hoy para aprovechar el descuento del 50% en el precio de la preventa",
+
+    "lottery": "Lotería:",
+
+    "lottery_desc": "Envía 10 ETH o más y entrarás en la lotería para el premio de 200.000 Seed",
+
+    "bonus_disc": "Bonus:",
+
+    "bonus_disc_desc": "Apóyanos con más de 1,5 ETH y optarás a bonus Seed adicionales",
+
+    "scroll_down_for_lottery": "Desplázate hacia abajo en por esta página para más información sobre los bonus y vídeos educativos para aquellos que seáis nuevos en blockchain",
+
+    "ensure_disc": "Asegúrate de que tu cartera es compatible con ERC20 y que has añadido los SED ",
+
+    "ensure_disc_2": " dirección de tu cartera",
+
+    "top_nav_main_pages": "Únete a la comunidad LiveTree ADEPT.  La preventa de tokens Seed comenzará el 1 de diciembre de 2017.",
+
+    "top_nav_main_page_sale_live": "La venta de Tokens Seed de LiveTree ya está abierta. ¡No te la pierdas!",
+
+    "learn_more": "Saber más",
+
+    "top_nav_main_sale_end": "Únase a la comunidad LiveTree ADEPT. La venta de Token Seed de LiveTree comienza el 31 de enero de 2018 en",
+
+    "sale_end_pre_register": "La venta de Token Seed de LiveTree comienza el 31 de enero de 2018 en",
+
+    "need_help": "Guía Blockchain para Principiantes",
+
+    "Pre-sale-bonus": "Bonus de Preventa",
+
+    "beginnersguidetransfer_3_buy": "3. Guía para Principiantes: Comprando Seed",
+
+    "about": "Acerca de",
+
+    "about_desc1": "El negocio de cine, TV y contenido de LiveTree",
+
+    "about_desc2": "se fundó hace 2.",
+
+    "about_desc3": "LiveTree ya ha captado el 5% del mercado de financiación colectiva del entretenimiento en Reino Unido (1.000 millones de dólares de mercado global).",
+
+    "about_desc4": "LiveTree ADEPT",
+
+    "about_desc5": "es la próxima generación de la plataforma construida sobre la experiencia de nuestro negocio existente probado. la nueva plataforma, ADEPT, ",
+
+    "about_desc6": "va más allá de la financiación colectiva",
+
+    "about_desc7": "y usa la blockchain para reducir las comisiones, eliminar los costosos contratos y presentar la primera plataforma de distribución de extremo a extremo en el mundo (500.000 millones de dólares de mercado global). En los últimos 2 años, LiveTree ha logrado varias alianzas con socios de perfil alto incluyendo Red Rock Entertainment, el British Film Institute, Film London, El Screen Arts Institute, y 14.000 proveedores de la industria en todo el mundo.",
+
+    "need": "¿Necesitas ayuda?",
+
+    "sed_add": "ENVÍA ETH A LA DIRECCIÓN:",
+
+    "action_1": "Innova en la industria del entretenimiento de 500.000M de dólares",
+
+    "action_2": "Tú controlas lo que ves",
+
+    "action_3": "Construido sobre el éxito de negocios ya establecidos",
+
+    "more_info": "más información",
+    "subscribed_success": "Te has suscrito con éxito.",
+    "gas": "Gas Límite",
+    "year_1": "Año 1",
+    "year_2": "Año 2",
+    "year_3": "Año 3",
+    "year_4": "Año 4",
+    "year_5": "Año 5",
+    "burn_rate": "Quema",
+    "buy_back": "Recompra",
+    "webinar_deep": "LiveTree ADEPT – Webinar",
+    "eth_request": "Por favor, envía cualquier cantidad de ETH a la siguiente dirección:",
+    "btc_request": "Por favor, envía cualquier cantidad de BTC a la siguiente dirección:",
+    "seed_request_success_header": "Por favor, confirma ¿tu pago va a ser en ETH o BTC?",
+    "seed_request_congrats": "Enhorabuena, ahora puedes comprar LiveTree Seed.",
+    "warning_on_seed": "ADVERTENCIA: No envíe ETH directamente desde un intercambio (Coinbase, Bittrex, Kraken u otros intercambios) a nuestra dirección de contribución. Es posible que pierda sus tokens Seed.",
+    "sale_end_announce": "La preventa termina en ",
+    "sale_end_announce_1": "¡No te lo pierdas! La preventa finaliza en ",
+    "how_to_purchase_seed_ques": "¿Cómo te gustaría comprar tokens Seed?",
+    "how_to_purchase_seed_ans": "Puedes comprar bien con ",
+    "Bitcoin (BTC)": "Bitcoin (BTC)",
+    "Ether (ETH)": "Ether (ETH)",
+    "or": "o",
+    "seed_purchase_using_btc": "COMPRAR SEED USANDO BTC",
+    "seed_purchase_using_eth": "COMPRAR SEED USANDO ETH",
+    "seed_purchase_using_ltc": "COMPRAR SEED USANDO LTC",
+    "blockchain_guide": "GUÍA BLOCKCHAIN PARA PRINCIPIANTES",
+    "WatchBlossomTV_nav": "Ver Blossom TV",
+    "Account_nav": "Cuenta",
+    "Logout_nav": "Salir",
+    "ques_to_send_token": "¿Dónde deberíamos enviarte tus tokens Seed?",
+    "enter_your": "Por favor, escriba su",
+    "ERC20_wallet_addr": "dirección de cartera compatible con ERC20",
+    "continue": "CONTINUAR",
+    "send_eth_addr": "Enhorabuena, envía ETH a la siguiente dirección",
+    "seed_token_addr": "Tus tokens seed se enviarán a la siguiente dirección:",
+
+
+
+
+
+
+
+    "first_block_chain_tv": "La primera película de blockchain y TV del mundo",
+    "find_distri_plat": "plataforma de búsqueda y distribución",
+    "banner_2": "Usamos blockchain para gestionar derechos para películas y proyectos de TV. Esto significa nuevas oportunidades de financiación, debido a los derechos y la distribución de sus proyectos favoritos a través del streaming de LiveTree Blossom o el canal de televisión normal",
+    "watch": "VER",
+    "blossom_tv": "BLOSSOM TV",
+    "pre_register": "PRE-REGISTRO",
+    "buy_seed_btn": "COMPRAR SEED",
+    "sale_start": "La venta de Token de semillas LiveTree comienza el 31 de enero de 2018 en",
+    "day": "DÍAS",
+    "hour": "HORAS",
+    "min": "MINUTOS",
+    "sec": "SEGUNDOS",
+    "start": "INICIA UN",
+    "project": "proyecto",
+    "about_seed": "Acerca de",
+    "about_desc4_modified": "es la próxima generación de la plataforma creada en experience a partir de nuestro probado negocio exitoso",
+    "about_desc5_modified": "La nueva plataforma, ADEPT,",
+    "about_desc6_modified": "va más allá del crowdfunding",
+    "about_desc7_modified": "y utiliza blockchain para reducir tarifas, eliminar costosos contratos e introducir la primera plataforma de distribución end-to-end del mundo (mercado global de $ 500bn), en los últimos 12 años LiveTree ha establecido varios socios de alto perfil incluyendo Red Rock Entertainment, The British Film Institute, Film london y Screen Arts Institute, y 14,000 proveedores de la industria en todo el mundo. ",
+    "why_blockchain": "¿Por qué Blockchain?",
+    "blockchain_funding": "Financiamiento de los derechos de Blockchain",
+    "blockchain_fund_des": "Apoyar proyecto, poseer los derechos, formar parte de la acción",
+    "blossom_distri": "Distribución: Blossom TV",
+    "blossom_distri_des": "Mire el contenido que posee y administre los derechos de contenido a través de contratos inteligentes Efficiet Smart",
+    "token_head": "Token Cripto Digital:",
+    "token_des": "Compre Token de semilla LiveTree hoy y gane de LiveTree Platform.",
+    "download": "DESCARGAR",
+    "one_pager": "FOLLETO",
+    "watch_the": "VER EL",
+    "trailer": "TRAILER",
+    "vision": "VISIÓN",
+    "how_it_works": "CÓMO FUNCIONA",
+    "more_video": "MÁS VIDEOS",
+    "livetree_ceo": "CEO de LiveTree",
+    "our_vision_1": "Nuestra visión para el",
+    "our_vision_2": "próximos cinco años",
+    "jan_16": "enero 2016",
+    "roadmap1": "Plataforma de desarrollo de Live Tree comenzó",
+    "dec_17": "Dic 2017",
+    "roadmap2": "5% de participación en el mercado Socios de la industria totalmente transaccionales preventa Seed",
+    "feb_18": "feb 2018",
+    "roadmap3": "Lanzamiento de beta de ADEPT Blossom incluyendo demo de distribución y migración de negocio existente así como 3 proyectos más",
+    "jun_18": "Jun 2018",
+    "roadmap4": "Gestión de Derechos de LiveTree ADEPT",
+    "dec_18": "Dic 2018",
+    "roadmap5": "Migración de red de creación de distribución ADEPT",
+    "2019+": "2019 +",
+    "roadmap6": "Cuota de mercado 45%",
+    "meet_team": "Conoce al equipo",
+    "home_advisiors": "Asesores",
+    "what_is_livetree": "¿Qué es LiveTree?",
+    "subscribe_to": "Suscribirse a",
+    "newsletter": "hoja informativa",
+    "live_chat": "Chat en vivo",
+    "mainsalebonuses_buy": "Bonus de Venta de Seed",
+    "main_sale_bonus": "Bonus de venta de Seed",
+    "nick_desg": "CEO y SAGE OF SHOREDITCH",
+    "nick_desc": "Nick es un nombre reconocido mundialmente en el mundo de la gestión empresarial descentralizada, la tecnología blockchain y las monedas criptográficas y un veterano de ocho start-ups. Ha trabajado durante 30 años en el sector de la tecnología, desempeñando varios puestos directivos y de gestión para Siemens, CapGemini y CSC. Es conocido por crear y diseñar servicios orientados al consumidor, desde reclamos de seguros hasta pensiones de autoservicio y equipos de entretenimiento y administración de cabina en vuelo para aerolíneas comerciales globales. Nick, un escritor consumado, orador y arquitecto comercial de blockchain, ha dedicado los últimos años a ayudar a las organizaciones con sus estrategias blockchain, diseñando soluciones y propuestas blockchain y asesorando sobre ICOs mientras escribe para la revista de criptodivisas en línea Coin Telegraph como corresponsal en Londres. donde es conocido como El Sabio de Shoreditch. Nick también es CEO de The 21 Million Project, la primera serie de televisión Blockchain del mundo financiada por ICO, y una de las 100 mejores influeteras de fintech del mundo, clasificada en el puesto número 21 en RISE.",
+    "david_desg": "EXEC PRODUCTOR Y DIRECTOR CREATIVO",
+    "david_desc": "David es un arquitecto de marca con una sólida formación en marketing global de consumo y finanzas. Ha desarrollado una estrategia para grandes corporaciones y lanzó al público flotantes, marcas de alimentos y automóviles, tarjetas de crédito y productos de tabaco en América del Norte, Rusia, Ucrania, Sudeste Asiático y Medio Oriente, trabajando con BAT, Mars, Chrysler JEEP, Lloyds Group, Saudi American Bank y AXA. Su pasión por Blockchain surge de la creencia en la igualdad a través de la descentralización, un deseo de cambio mundial y un campo de juego para los empresarios. Después de haber pasado gran parte de su carrera en el ámbito corporativo, está dedicado a interrumpir la dependencia mundial de los bancos y las finanzas de capital de riesgo para las empresas de nueva creación. David también es CMO y Director creativo de 21 Million Project, la primera compañía de producción de cine y televisión descentralizada del mundo, que actualmente está en producción en su primer proyecto financiado por ICO; The Children of Satoshi, que ha escrito específicamente para llevar el concepto de cadena de bloques y monedas descentralizadas a la corriente principal. Es un consumado escritor, músico y productor y tiene una pasión por los autos clásicos y la igualdad mundial a través del altruismo.",
+    "seed_prize_lottery": "Lotería de premios de semillas",
+    "your_wallet": "Su dirección de billetera",
+    "c_warn": "Lo sentimos, su país ha sido bloqueado para recopilar las leyes de terrorismo y sanción del Reino Unido y la UE.",
+    "is_secure": "¿LiveTree es seguro",
+    "is_secure_a_1": "La información que ingresa en LiveTree está protegida por la seguridad en línea más avanzada. LiveTree usa seguridad 'estricta' de capa de conexión segura (SSL). Esto significa que siempre aplicaremos el nivel más alto de cifrado y protección para su cuenta.",
+    "is_secure_a_2": "acerca de salvaguardar su cuenta aquí.",
+    "reg": "Registro",
+    "or_1": "O",
+    "log": "Iniciar sesión",
+    "fill_details": "Por favor complete los campos a continuación o",
+    "fill_details_2": "continuar",
+    "err_1": "Lo sentimos, no pudimos crear una nueva cuenta, si usted es un usuario existente, por favor",
+    "err_2": "Si ya ha utilizado su dirección de correo electrónico y no recuerda su contraseña, puede restablecerla",
+    "here": "aquí.",
+    "enter_your_1": "Por favor introduzca su",
+    "full_name": "Nombre completo",
+    "enter_valid": "Por favor ingrese válido",
+    "email": "Email",
+    "pwd_mismatch": "Su contraseña y confirmación deben coincidir",
+    "pwd_len": "Por favor ingrese al menos 6 caracteres",
+    "pwd": "Contraseña",
+    "c_pwd": "Confirmar contraseña",
+    "invalid_country": "Seleccione un país válido",
+    "promo": "Código promocional",
+    "invalid_captcha": "Por favor resuelve el captcha",
+    "invalid_terms": "Por favor acepte los términos y condiciones",
+    "imp_note_1": "NOTA IMPORTANTE:",
+    "tc_1": "Confirmo que acepto",
+    "tc_1_1": "los términos y condiciones de la venta de tokens Semilla",
+    "tc_2": "Este sitio web, la plataforma y los Fichas semilla no se ofrecen a personas que tengan su residencia habitual o sede social en los Estados Unidos de América o en cualquier jurisdicción donde la adquisición o tenencia de Fichas semilla o el uso de este sitio web o la plataforma en violación de la ley o regulación aplicable. Hago las declaraciones y garantías establecidas en",
+    "tc_2_1": "Apéndice 1",
+    "tc_2_2": "a los Términos y Condiciones establecidos",
+    "tc_2_3": "aquí.",
+    "tc_3": "Confirmo que soy mayor de 18 años.",
+    "tc_4": "Confirmo que he leído y entendido el",
+    "tc_4_1": "Libro blanco",
+    "a_member": "Ya eres usuario?",
+    "forgot_pwd": "Contraseña olvidada?",
+    "not_a_member_yet": "No eres miembro todavía?",
+    "reset_your_password": "Restablecer su contraseña",
+    "reset_pwd_success": "Su contraseña ahora ha sido restablecida.",
+    "clk_here": "Haga clic aquí para ingresar.",
+    "check_mail_pwd": "Revisa tu correo electrónico para un enlace de restablecimiento de contraseña",
+    "back": "Espalda",
+    "valid_erc_add": "Ingrese una dirección válida de billetera compatible con ERC20:",
+    "refer_friend": "Referir amigo",
+    "seed_add_subtext": "Su dirección de billetera para enviar ETH desde para recibir sus tokens de Semilla.",
+    "congo_subheader": "Enviar ETH desde la dirección de la billetera que ingresó en la pantalla anterior",
+    "eight_dec": "y use 18 decimales cuando se le pregunte",
+    "congo_modal": "Felicitaciones",
+    "congo_modal_1": "Felicidades, notamos que un amigo te recomendó a LiveTree. Recibirás un bono del 2% en los tokens de semillas que compres. *",
+    "congo_modal_2": "* Sujeto a disponibilidad y que tu amigo sea un miembro válido de la comunidad de LiveTree",
+
+
+
+    "v_code": "Código de verificación",
+    "enter_v_code": "Por favor, comprueba el código de verificación en tu correo",
+    "resend_code": "Por favor, escribe tu código de verificación",
+    "reffer_frnd": "¡Trae a un amigo y gana un 2% de tokens Seed!",
+    "reffer_bnft": "Tus amigos también estarán contentos, recibirán un bonus adicional del 2% de tokens Seed!",
+    "whtsp_share": "Compartir en WhatsApp",
+    "email_share": "Compartir por email",
+    "bst_way_share": "¿La mejor manera de Compartir?",
+    "bast_share_des": "Comparte con tus amigos que creas, asegúrate que que compran a través de tu enlace y ¡recibe un 2% de recompensa! Recuerda, cuanto más personal, mejor.",
+    "share_today": "Comparte hoy",
+    "referral_link": "Tu link de referencia único",
+    "referrals": "Referencia",
+    "referral_home": "Inicio",
+    "share_care": "Compartir es amar",
+    "invite_frnds": "¡Invita a tus amigos a LiveTree.com y obtendrás tokens Seed como bonus!",
+    "sign_to_invite": "Ingresa o Regístrate para invitar",
+    "login_get_referral_link": "Ingresa o crea una cuenta para obtener tu enlace de referencia y empezar a compartirlo con tus amigos",
+    "using_link": "Tus amigos usan el link para comprar tokens Seed de LiveTree",
+    "benefits_after_sale": "Tras la venta de Seed, ambos recibiréis un bonus en tokens Seed del 2%",
+    "how_referral": "Cómo funciona"
+    "c_us" : "Contacto",
+    "t_us" : "Términos de uso",
+    "pls_log" : "Por favor, Ingresa"
+
+
+
+
+
+
+
+
+}
